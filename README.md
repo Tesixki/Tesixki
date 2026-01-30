@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://github.com/Tesixki">
     <img src="https://img.shields.io/github/followers/Tesixki?label=Followers&style=social" alt="GitHub followers">
+    <img src="https://komarev.com/ghpvc/?username=Tesixki&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile views" />
   </a>
 </p>
 
@@ -62,19 +63,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tesixki&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tesixki&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tesixki&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tesixki&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
